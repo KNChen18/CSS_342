@@ -1,0 +1,3 @@
+C:/Users/KNChe/CLionProjects/342SpringNotes/cmake-build-debug/CMakeFiles/342SpringNotes.dir
+C:/Users/KNChe/CLionProjects/342SpringNotes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/KNChe/CLionProjects/342SpringNotes/cmake-build-debug/CMakeFiles/rebuild_cache.dir

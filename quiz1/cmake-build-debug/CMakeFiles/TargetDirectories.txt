@@ -1,0 +1,3 @@
+C:/Users/KNChe/CLionProjects/quiz1/cmake-build-debug/CMakeFiles/quiz1.dir
+C:/Users/KNChe/CLionProjects/quiz1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/KNChe/CLionProjects/quiz1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
