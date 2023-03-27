@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2022-342-sprint-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2022-342-sprint-1/lib/ext_dependencies/googletest/googletest-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2022-342-sprint-2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2022-342-sprint-2/lib/ext_dependencies/googletest/googletest-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2022-342-sprint-3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2022-342-sprint-3/lib/ext_dependencies/googletest/googletest-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2022-342-sprint-4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2022-342-sprint-4/lib/ext_dependencies/googletest/googletest-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2022-342-sprint-5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2022-342-sprint-5/lib/ext_dependencies/googletest/googletest-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2022-342-sprint-6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2022-342-sprint-6/lib/ext_dependencies/googletest/googletest-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2022-342a-quiz-3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2022-342a-quiz-3/lib/ext_dependencies/googletest/googletest-src" vcs="Git" />
+  </component>
+</project>
